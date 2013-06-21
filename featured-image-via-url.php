@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Featured Image Via URL
-Description: Allows you to set featured image via URL, ....
+Description: Allows you to set featured image via URL. The image will be fetched back and saved into the Media Library with thumbnails.
 Version: 0.1
 Author: Tsai I-Ta
 Author URI: http://blog.tsaiid.idv.tw/
-Modified from Auto Post Thumbnail
+Modified from Auto Post Thumbnail by adityamooley
 */
 
 /*  Copyright 2013 (ittsai@gmail.com)
