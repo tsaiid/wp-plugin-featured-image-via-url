@@ -4,6 +4,8 @@ Tags: Post, thumbnail, automatic, posts, featured image, image, featured, images
 Requires at least: 2.9.1
 Tested up to: 3.6.x
 Stable tag: 0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Automatically generate the Featured Image from the specified image url in post.
 
@@ -22,7 +24,13 @@ For more details, see http://blog.tsaiid.idv.tw/project/wordpress-plugin-feature
 1. Upload directory 'featured-image-via-url' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Frequently Asked Questions ==
+
+== Screenshots ==
+
 == Changelog ==
 
 = 0.1 =
 First release
+
+== Upgrade Notice ==
