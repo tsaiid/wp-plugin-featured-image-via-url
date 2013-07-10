@@ -17,7 +17,7 @@ If the featured image is already present, the plugin will do nothing.
 
 This plugin is modified from Auto Post Thumbnail by adityamooley.
 
-For more details, see http://blog.tsaiid.idv.tw/project/wordpress-plugin-featured-image-via-url/
+For more details, see http://blog.tsaiid.idv.tw/project/wordpress-plugins/featured-image-via-url/
 
 == Installation ==
 
