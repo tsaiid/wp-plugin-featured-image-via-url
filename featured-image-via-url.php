@@ -156,3 +156,22 @@ function fivu_generate_post_thumb ($imageUrl, $post_id) {
     return null;
 
 }
+
+/**
+ * Function to fetch the contents of URL using curl in absense of allow_url_fopen.
+ *
+ * Copied from user comment on php.net (http://in.php.net/manual/en/function.file-get-contents.php#82255)
+ */
+function curl_get_file_contents($URL) {
+    $c = curl_init();
+    curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($c, CURLOPT_URL, $URL);
+    $contents = curl_exec($c);
+    curl_close($c);
+
+    if ($contents) {
+        return $contents;
+    }
+
+    return FALSE;
+}
