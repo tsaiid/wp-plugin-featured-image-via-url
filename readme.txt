@@ -3,7 +3,7 @@ Contributors: tsaiid
 Tags: Post, thumbnail, automatic, posts, featured image, image, featured, images, admin
 Requires at least: 2.9.1
 Tested up to: 3.7.x
-Stable tag: 0.1
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
