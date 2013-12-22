@@ -34,3 +34,4 @@ For more details, see http://blog.tsaiid.idv.tw/project/wordpress-plugins/featur
 First release
 
 == Upgrade Notice ==
+
