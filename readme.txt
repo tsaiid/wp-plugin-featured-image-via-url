@@ -2,7 +2,7 @@
 Contributors: tsaiid
 Tags: Post, thumbnail, automatic, posts, featured image, image, featured, images, admin
 Requires at least: 2.9.1
-Tested up to: 3.7.x
+Tested up to: 3.8.x
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ If the featured image is already present, the plugin will do nothing.
 
 This plugin is modified from Auto Post Thumbnail by adityamooley.
 
-For more details, see http://blog.tsaiid.idv.tw/project/wordpress-plugins/featured-image-via-url/
+For more details, see http://tsai.it/project/wordpress-plugins/featured-image-via-url/
 
 == Installation ==
 
